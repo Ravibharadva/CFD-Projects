@@ -8,9 +8,6 @@ Three small, self-contained CFD projects that show three different ways of compu
 | 2 | [Flow past a cylinder](02-lattice-boltzmann-cylinder/) | Lattice-Boltzmann method (D2Q9, BGK) | NumPy, Matplotlib | Strouhal number of the vortex street |
 | 3 | [Kovasznay flow with a PINN](03-pinn-kovasznay-flow/) | Physics-informed neural network, forward + inverse problem | PyTorch, NumPy, Matplotlib | Exact analytical solution |
 
-| Lid-driven cavity | Vortex street (LBM) | PINN vs. exact |
-|---|---|---|
-| ![](01-lid-driven-cavity/results/velocity_streamlines.png) | ![](02-lattice-boltzmann-cylinder/results/vorticity.png) | ![](03-pinn-kovasznay-flow/results/forward_fields.png) |
 
 ## Why these three?
 
